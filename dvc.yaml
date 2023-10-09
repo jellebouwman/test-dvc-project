@@ -34,3 +34,6 @@ artifacts:
   model-for-test-dvc-project:
     path: model-for-test-dvc-project
     type: model
+  model-name:
+    path: model-name
+    type: model
