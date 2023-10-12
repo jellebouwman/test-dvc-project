@@ -37,3 +37,6 @@ artifacts:
   model-name:
     path: model-name
     type: model
+  model_with-underscore:
+    path: some/model_with-underscore
+    type: model
